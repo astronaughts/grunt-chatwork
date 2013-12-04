@@ -13,6 +13,10 @@
   ],
   "author": "astronaughts",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/astronaughts/grunt-chatwork.git"
+  },
   "devDependencies": {
     "grunt": "~0.4.2"
   },
