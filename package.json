@@ -1,0 +1,23 @@
+{
+  "name": "grunt-chatwork",
+  "version": "0.1.0",
+  "description": "Grunt plugin for ChatWork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt",
+    "plugin",
+    "chatwork"
+  ],
+  "author": "astronaughts",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "dependencies": {
+    "simple-cw-node": "~0.1.2",
+    "date-utils": "~1.2.14"
+  }
+}
